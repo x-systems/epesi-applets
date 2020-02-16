@@ -4,7 +4,7 @@ namespace Epesi\Applets\Clock;
 
 use Epesi\Base\Dashboard\Integration\Joints\AppletJoint;
 use Epesi\Base\Dashboard\Seeds\Applet;
-use Epesi\Core\System\Integration\Modules\Concerns\HasOptions;
+use Epesi\Core\System\Modules\Concerns\HasOptions;
 
 class ClockApplet extends AppletJoint
 {
